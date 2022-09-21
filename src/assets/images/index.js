@@ -27,9 +27,9 @@ import twitter from './icon-twitter.svg'
 import pinterest from './icon-pinterest.svg'
 
 import pineapples from './desktop/pineapples-about.jpg'
+import roses from './desktop/roses-about.jpg'
 
 
 
 
-
-export {logo, headerimg, mheaderimg, standout, transform, photography, graphic ,mstandout ,mtransform ,mphotography ,mgraphic , milkbottles, orange, cone, sugarcubes, mmilkbottles, morange, mcone ,msugarcubes ,facebook ,instagram ,twitter , pinterest ,pineapples} 
+export {logo, headerimg, mheaderimg, standout, transform, photography, graphic ,mstandout ,mtransform ,mphotography ,mgraphic , milkbottles, orange, cone, sugarcubes, mmilkbottles, morange, mcone ,msugarcubes ,facebook ,instagram ,twitter , pinterest ,pineapples,roses} 
