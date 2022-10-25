@@ -59,7 +59,7 @@ const hero = () => {
         </div>
       </div>
 
-      <div className=" relative">
+      <div className=" relative border-none">
         <img
           src={mgraphic}
           alt="talents"
@@ -81,7 +81,7 @@ const hero = () => {
         </div>
       </div>
 
-      <div className=" relative">
+      <div className=" relative border-none">
         <img
           src={mphotography}
           alt="talents"
