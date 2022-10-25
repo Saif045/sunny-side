@@ -6,7 +6,7 @@ const Contact = () => {
            
          
         <div>
-           <div className='bg-slate-600 h-16 sm:h-20 w-full'> </div>
+           <div className='bg-yellow-400 h-16 sm:h-20 w-full'> </div>
           <section className=" text-gray-700 body-font relative">
             
             <div className="container px-5 py-24 mx-auto">
