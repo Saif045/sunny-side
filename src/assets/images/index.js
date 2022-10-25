@@ -27,10 +27,11 @@ import twitter from './icon-twitter.svg'
 import pinterest from './icon-pinterest.svg'
 
 import pineapples from './desktop/pineapples-about.jpg'
+import pineapples2 from './desktop/pineapples2-about.jpg'
 import roses from './desktop/roses-about.jpg'
 
 import arrow  from './icon-arrow-down.svg'
 
 
 
-export {logo, headerimg, mheaderimg, standout, transform, photography, graphic ,mstandout ,mtransform ,mphotography ,mgraphic , milkbottles, orange, cone, sugarcubes, mmilkbottles, morange, mcone ,msugarcubes ,facebook ,instagram ,twitter , pinterest ,pineapples,roses , arrow} 
+export {logo, headerimg, mheaderimg, standout, transform, photography, graphic ,mstandout ,mtransform ,mphotography ,mgraphic , milkbottles, orange, cone, sugarcubes, mmilkbottles, morange, mcone ,msugarcubes ,facebook ,instagram ,twitter , pinterest ,pineapples , pineapples2, roses , arrow} 
