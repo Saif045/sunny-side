@@ -1,25 +1,18 @@
-import React, { useRef } from "react";
+import React from "react";
 import Front from "./HomePage/Front";
 import HeroTransform from "./HomePage/HeroTransform";
 import HeroStand from "./HomePage/HeroStand";
 import HeroBottom from "./HomePage/HeroBottom";
 import Testemonials from "./HomePage/Testemonials";
 
-import useScrollSnap from "react-use-scroll-snap";
-
 const Home = () => {
-  const scrollRef = useRef(null);
-  useScrollSnap({ ref: scrollRef, duration: 10, delay: 0 });
-
   return (
-    <section ref={scrollRef}>
+    <section>
       <Front />
-       <section>
-         <HeroTransform />
-         <HeroStand />
-         <HeroBottom />
-         <Testemonials />
-       </section>
+      <HeroTransform />
+      <HeroStand />
+      <HeroBottom />
+      <Testemonials />
     </section>
   );
 };

@@ -1,13 +1,9 @@
-import React, { useRef } from "react";
+import React from "react";
 import { roses, pineapples2 } from "../../assets/images/index";
-import useScrollSnap from "react-use-scroll-snap";
 
 const About = () => {
-  const scrollRef = useRef(null);
-  useScrollSnap({ ref: scrollRef, duration: 10, delay: 0 });
-
   return (
-    <div className="" ref={scrollRef}>
+    <div className="">
       <section className="relative w-full h-screen ">
         <img
           className="w-full h-full object-cover object-bottom  -z-50"
@@ -35,3 +31,12 @@ const About = () => {
 };
 
 export default About;
+
+{
+  /* 
+ const scrollRef = useRef(null);
+  useScrollSnap({ ref: scrollRef, duration: 10, delay: 0 });
+
+  ref={scrollRef}
+*/
+}
