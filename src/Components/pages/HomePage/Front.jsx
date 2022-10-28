@@ -1,6 +1,7 @@
 import React from "react";
-import { headerimg, mheaderimg } from "../assets/images";
-import { arrow } from "../assets/images/index";
+import { headerimg, mheaderimg } from "../../../assets/images";
+import { arrow } from "../../../assets/images/index";
+
 const Front = () => {
   return (
     <div className="">
