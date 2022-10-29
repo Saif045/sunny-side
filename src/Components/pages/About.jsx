@@ -4,7 +4,7 @@ import { roses, pineapples2 } from "../../assets/images/index";
 const About = () => {
   return (
     <div className="">
-      <section className="relative w-full h-screen ">
+      <section className="relative w-full h-screen -mt-16 sm:-mt-20">
         <img
           className="w-full h-full object-cover object-bottom  -z-50"
           src={pineapples2}
