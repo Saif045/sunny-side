@@ -1,4 +1,4 @@
-# sunny-side
+# SunnySide
 Welcome to the repository for our SunnySide app built with React, Tailwind CSS, Vite, and Framer Motion.
 
 Installation
@@ -11,15 +11,6 @@ Start the development server: npm run dev
 
 Open http://127.0.0.1:5173/ to view the app in the browser.
 
-Features
-
-View the current weather and forecast for your location
-
-Search for weather information for other locations
-
-View detailed weather data such as humidity, wind speed, and UV index
-
-Customize the app with different color schemes and background images
 
 Technologies Used
 
