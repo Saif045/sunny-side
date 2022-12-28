@@ -9,7 +9,7 @@ Install dependencies: npm install
 
 Start the development server: npm run dev 
 
-Open http://localhost:3000 to view the app in the browser.
+Open http://127.0.0.1:5173/ to view the app in the browser.
 
 Features
 
